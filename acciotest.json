@@ -1,0 +1,4 @@
+{
+    "testRepo": "remove-items-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
